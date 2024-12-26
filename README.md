@@ -1,6 +1,9 @@
 # Gemini Chatbot - Hugging Face Space
+## ✨ Try it out!
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/)
+You can try out the chatbot directly on Hugging Face Spaces by clicking the button below:
+
+[![Try it on Hugging Face Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/DEADS1KE/Gemeni-Exp-1206)
 
 > [!NOTE]
 > The repository is in open beta.
