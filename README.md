@@ -82,9 +82,9 @@ This chatbot allows you to interact with Google AI's Gemini Experimental 1206 mo
 
 This project is licensed under the MIT License. See the `LICENSE` file for details. (Remember to add a `LICENSE` file with the MIT license text to the root of your repository.)
 
-## Author
+## ❤️ Author
 
-❤️ [SparkleSavvy](https://github.com/SparkleSavvy) (Discord - deads1ke)
+[SparkleSavvy](https://github.com/SparkleSavvy) (Discord - deads1ke)
 
 ## Acknowledgements
 
