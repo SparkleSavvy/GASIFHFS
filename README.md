@@ -1,14 +1,8 @@
 # Gemini Chatbot - Hugging Face Space
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/DEADS1KE/Gemeni-Exp-1206)
 
 This repository contains the source code for a chatbot deployed on Hugging Face Spaces that utilizes the Google Gemini API for generating responses.
-
-## ✨ Try it out!
-
-You can try out the chatbot directly on Hugging Face Spaces by clicking the button below:
-
-[![Try it on Hugging Face Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME)
 
 ## Description
 
@@ -90,7 +84,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Author
 
-YOUR NAME (YOUR_CONTACT)
+SparkleSavvy (Discord - deads1ke)
 
 ## Acknowledgements
 
@@ -98,6 +92,12 @@ YOUR NAME (YOUR_CONTACT)
 *   [Hugging Face](https://huggingface.co/) for the Spaces platform.
 *   [Gradio](https://gradio.app/) / [Streamlit](https://streamlit.io/) for the user-friendly web interface libraries.
 
+## ✨ Try it out!
+
+You can try out the chatbot directly on Hugging Face Spaces by clicking the button below:
+
+[![Try it on Hugging Face Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/DEADS1KE/Gemeni-Exp-1206)
+
 ## Contributing
 
-If you'd like to
+If you'd like to contribute to this project, please create a Pull Request.
