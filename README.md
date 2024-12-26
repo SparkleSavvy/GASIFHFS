@@ -86,7 +86,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Author
 
-YOUR NAME (YOUR_CONTACT)
+SparkleSavvy (DEADS1KE) (My Discord: DEADS1KE)
 
 ## Acknowledgements
 
