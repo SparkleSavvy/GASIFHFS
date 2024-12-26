@@ -13,13 +13,13 @@ This chatbot allows you to interact with Google AI's Gemini Pro model through a 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+    git clone https://github.com/SparkleSavvy/GASIFHFS.git
     ```
 
 2. **Navigate to the repository directory:**
 
     ```bash
-    cd YOUR_REPOSITORY_NAME
+    cd GASIFHFS
     ```
 
 3. **Create and activate a virtual environment (recommended):**
