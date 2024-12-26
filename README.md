@@ -1,4 +1,4 @@
-# Gemini Chatbot - Hugging Face Space
+# 🌠 Gemini Chatbot - Hugging Face Space
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/DEADS1KE/Gemeni-Exp-1206)
 
@@ -84,7 +84,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Author
 
-SparkleSavvy (Discord - deads1ke)
+❤️ [SparkleSavvy](https://github.com/SparkleSavvy) (Discord - deads1ke)
 
 ## Acknowledgements
 
