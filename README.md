@@ -6,7 +6,7 @@ This repository contains the source code for a chatbot deployed on Hugging Face 
 
 ## Description
 
-This chatbot allows you to interact with Google AI's Gemini Pro model through a simple web interface. It can answer your questions, engage in conversations, and generate text based on your prompts.
+This chatbot allows you to interact with Google AI's Gemini Experimental 1206 model through a simple web interface. It can answer your questions, engage in conversations, and generate text based on your prompts.
 
 ## How to Use
 
