@@ -1,8 +1,10 @@
 # Gemini Chatbot - Hugging Face Space
+
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/)
+
 > [!NOTE]
 > The repository is in open beta.
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/)
 
 This repository contains the source code for a chatbot deployed on Hugging Face Spaces that utilizes the Google Gemini API for generating responses.
 
