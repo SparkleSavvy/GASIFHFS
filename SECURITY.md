@@ -23,7 +23,6 @@ We take the security of our project seriously. If you believe you have found a s
 1. **DO NOT CREATE A PUBLIC ISSUE FOR POTENTIAL SECURITY VULNERABILITIES.**
 2. **Contact us privately through one of the following methods:**
     *   **Discord:** `deads1ke`
-    *   **Email:** `bafef.one@gmail.com`
 
 3. **Provide a detailed description of the vulnerability.** Please include as much of the following information as possible:
     *   **Type of vulnerability** (e.g., "Possible XSS", "Potential data leak").
@@ -79,7 +78,6 @@ We appreciate your help in keeping the Gemini API Chatbot and its users safe!
 1. **НЕ СОЗДАВАЙТЕ ПУБЛИЧНЫЙ ISSUE ДЛЯ ПОТЕНЦИАЛЬНЫХ УЯЗВИМОСТЕЙ БЕЗОПАСНОСТИ.**
 2. **Свяжитесь с нами конфиденциально через один из следующих методов:**
     *   **Discord:** `deads1ke`
-    *   **Email:** `bafef.one@gmail.com`
 
 3. **Предоставьте подробное описание уязвимости.** Пожалуйста, включите как можно больше следующей информации:
     *   **Тип уязвимости** (например, "Возможная XSS", "Потенциальная утечка данных").
