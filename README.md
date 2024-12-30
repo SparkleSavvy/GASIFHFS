@@ -1,6 +1,6 @@
 # 🌠 GASIFHFS - Enhanced
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/DEADS1KE/Gemeni-Exp-1206)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/DEADS1KE/GASIFHFS)
 [![GitHub Repo stars](https://img.shields.io/github/stars/SparkleSavvy/GASIFHFS?style=social)](https://github.com/SparkleSavvy/GASIFHFS)
 
 This open-source project brings the power of Google's Gemini AI to a user-friendly chatbot interface. Interact with the latest Gemini models, explore their capabilities in text generation, conversation, and now with enhanced image understanding!
@@ -13,7 +13,7 @@ This project uses a **`beta` branch for active development and pre-release versi
 
 Experience the chatbot in action on Hugging Face Spaces:
 
-[![Try it on Hugging Face Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/DEADS1KE/Gemeni-Exp-1206)
+[![Try it on Hugging Face Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/DEADS1KE/GASIFHFS)
 
 **Note:** The Hugging Face Space may be running either the `main` or a `beta` version. Check the Space's README for details.
 
@@ -140,7 +140,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 # 🌠 GASIFHFS - Расширенная версия
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/DEADS1KE/Gemeni-Exp-1206)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/DEADS1KE/GASIFHFS)
 [![GitHub Repo stars](https://img.shields.io/github/stars/SparkleSavvy/GASIFHFS?style=social)](https://github.com/SparkleSavvy/GASIFHFS)
 
 Этот проект с открытым исходным кодом предоставляет удобный интерфейс для взаимодействия с ИИ-моделями Gemini от Google. Исследуйте возможности новейших моделей Gemini в области генерации текста, ведения диалогов и теперь с расширенным пониманием изображений!
@@ -153,7 +153,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 Попробуйте чат-бота в действии на Hugging Face Spaces:
 
-[![Try it on Hugging Face Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/DEADS1KE/Gemeni-Exp-1206)
+[![Try it on Hugging Face Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/DEADS1KE/GASIFHFS)
 
 **Примечание:** На Hugging Face Spaces может быть запущена как `main`, так и `beta` версия. Подробности смотрите в README Spaces.
 
