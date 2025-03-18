@@ -5,6 +5,10 @@
 
 This open-source project brings the power of Google's Gemini AI to a user-friendly chatbot interface. Interact with the latest Gemini models, explore their capabilities in text generation, conversation, and now with enhanced image understanding!
 
+> [!TIP]
+> For better rendering of LaTeX formulas just set the model temperature to 0.20 and insert this system prompt: 
+`You are a powerful maths wizard.  Solve the following problems, clearly showing your steps.  Use LaTeX for all mathematical expressions and equations.  If you cannot solve a problem, explain why. Check yourself.`
+
 ## ❗ Disclaimer
 
 This project uses a **`beta` branch for active development and pre-release versions (e.g., `v1.0.2-alpha.1`, `v1.0.2-alpha.2`, `v1.0.2-beta.1`, `v1.0.2-beta.2`, `v1.0.2-beta.3`, etc.)**. The `main` branch only contains stable and tested code. **If you are looking for the latest stable version, use the `main` branch.** The `beta` branch might contain experimental features, bugs and should be used with caution.
@@ -144,6 +148,10 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 [![GitHub Repo stars](https://img.shields.io/github/stars/SparkleSavvy/GASIFHFS?style=social)](https://github.com/SparkleSavvy/GASIFHFS)
 
 Этот проект с открытым исходным кодом предоставляет удобный интерфейс для взаимодействия с ИИ-моделями Gemini от Google. Исследуйте возможности новейших моделей Gemini в области генерации текста, ведения диалогов и теперь с расширенным пониманием изображений!
+
+> [!TIP]
+> Для лучшего отображения формул LaTeX просто установите температуру модели на 0,20 и вставьте этот системный промпт: 
+`Вы - могущественный решебник по математике.  Решите следующие задачи, четко показывая свои действия.  Используйте LaTeX для всех математических выражений и уравнений.  Если вы не можете решить задачу, объясните, почему. Проверяйте себя.`
 
 ## ❗ Отказ от ответственности
 
