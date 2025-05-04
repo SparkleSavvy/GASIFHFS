@@ -1,4 +1,4 @@
-# 🌠 GASIFHFS - Enhanced
+<h1 align="center">🌠 GASIFHFS / Enhanced 💦</h1>
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/DEADS1KE/GASIFHFS)
 [![GitHub Repo stars](https://img.shields.io/github/stars/SparkleSavvy/GASIFHFS?style=social)](https://github.com/SparkleSavvy/GASIFHFS)
@@ -142,7 +142,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 **Russian**
 
-# 🌠 GASIFHFS - Расширенная версия
+<h1 align="center">🌠 GASIFHFS / Расширенная 💦</h1>
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/DEADS1KE/GASIFHFS)
 [![GitHub Repo stars](https://img.shields.io/github/stars/SparkleSavvy/GASIFHFS?style=social)](https://github.com/SparkleSavvy/GASIFHFS)
