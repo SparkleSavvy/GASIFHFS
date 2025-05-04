@@ -140,7 +140,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 ---
 ---
 
-**Russian**
+<h4 align="center">Русский язык</h4>
 
 <h1 align="center">🌠 GASIFHFS / Расширенная 💦</h1>
 
